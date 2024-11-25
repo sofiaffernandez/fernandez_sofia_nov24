@@ -8,3 +8,5 @@ Creamos el gitignore y añadimos la información de los ficheros photoshop y la 
 creamos la rama secundaria SofiaFernandez y modificamos este archivo
 
 Luego realizaremos los commits y uniremos las ramas
+
+Por ultimo daremos permisos y añadiremos el resto de las imagenes en las carpetas para hacer el push
